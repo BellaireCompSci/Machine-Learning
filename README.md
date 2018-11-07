@@ -1,14 +1,20 @@
-Machine Learning
+Machine Learning Projects
 =============
-- [x] Titanic - Predicting data trends.
-- [ ] Style Transfer - Transfering a style of one image to another image.
+- [x] Titanic - Predicting outcomes using provided data.
+- [ ] Style Transfer - Transferring a style of one image to another image.
 
 
 
 
-Lessons
+Lessons -Every Friday at Lunch in room 188
 =============
-11/09/18 We will be continuing our lesson on Predicting data trends by using data collected from the Titanic tragedy.
+- **09/21/18** Introduction to Machine Learning. (We will be using Python)
+- **10/05/18** Python Basics - Functions and Strings
+- **10/12/18** Python Basics - Classes and Variables
+- **10/19/18** Python Basics - Math, Tuples, Lists
+- **10/26/18** Introduction to TensorFlow and various libraries used for Machine Learning and Artificial Intelligence
+- **11/02/18** Predicting outcomes using provided data - Titanic project
+- **11/09/18** Predicting outcomes using provided data - Titanic project
 
 
 Additional Help
