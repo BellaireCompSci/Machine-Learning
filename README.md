@@ -14,4 +14,4 @@ Lessons
 Additional Help
 =============
 If you need additional help you can always email us at davidjiang090@gmail.com or wkw6209@gmail.com 
-or contact us through our Official Discord server. (Invite link: [discord.gg/A9v9tGB](discord.gg/A9v9tGB) )
+or contact us through our Official Discord server. (Invite link: https://discord.gg/A9v9tGB )
