@@ -1,7 +1,7 @@
 Machine Learning
 =============
-Titanic - Predicting data trends.
-Style Transfer - Transfering a style of one image to another image.
+- [x] Titanic - Predicting data trends.
+- [ ] Style Transfer - Transfering a style of one image to another image.
 
 
 
