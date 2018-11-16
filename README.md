@@ -8,7 +8,7 @@ Machine Learning Projects
 
 Lessons -Every Friday at Lunch in room 188
 =============
-- **09/21/18** Introduction to Machine Learning. (We will be using Python)
+- **09/21/18** Introduction to Machine Learning. (We will be using Python and a bit of JavaScript)
 - **10/05/18** Python Basics - Functions and Strings
 - **10/12/18** Python Basics - Classes and Variables
 - **10/19/18** Python Basics - Math, Tuples, Lists
