@@ -1,7 +1,7 @@
 Machine Learning Projects
 =============
 - [x] Titanic - Predicting outcomes using provided data.
-- [x] Basic Image Recognition - Clothing Recognition
+- [x] [Basic Image Recognition - Clothing Recognition](https://github.com/BellaireCompSci/Machine-Learning/blob/master/ImageRecognition.py)
 
 
 
