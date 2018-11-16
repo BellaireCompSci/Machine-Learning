@@ -1,7 +1,7 @@
 Machine Learning Projects
 =============
 - [x] Titanic - Predicting outcomes using provided data.
-- [ ] Style Transfer - Transferring a style of one image to another image.
+- [x] Basic Image Recognition - Clothing Recognition
 
 
 
@@ -15,6 +15,7 @@ Lessons -Every Friday at Lunch in room 188
 - **10/26/18** Introduction to TensorFlow and various libraries used for Machine Learning and Artificial Intelligence
 - **11/02/18** Predicting outcomes using provided data - Titanic project
 - **11/09/18** Predicting outcomes using provided data - Titanic project
+- **11/16/18** Basic Image Recognition - Clothing Recognition
 
 
 Additional Help
