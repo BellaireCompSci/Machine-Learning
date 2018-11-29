@@ -16,6 +16,7 @@ Lessons -Every Friday at Lunch in room 188
 - **11/02/18** Predicting outcomes using provided data - Titanic project
 - **11/09/18** Predicting outcomes using provided data - Titanic project
 - **11/16/18** Basic Image Recognition - Clothing Recognition
+- **11/16/18** POSENET in Javascript and in Python
 
 
 Additional Help
