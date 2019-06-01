@@ -18,8 +18,3 @@ Lessons -Every Friday at Lunch in room 188
 - **11/16/18** Basic Image Recognition - Clothing Recognition
 - **11/30/18** POSENET in Javascript and in Python
 
-
-Additional Help
-=============
-If you need additional help you can always email us at davidjiang090@gmail.com or wkw6209@gmail.com 
-or contact us through our Official Discord server. (Invite link: https://discord.gg/A9v9tGB )
